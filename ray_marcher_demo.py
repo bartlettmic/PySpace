@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import pygame, sys, math, random, os
 import numpy as np
 import pyspace
